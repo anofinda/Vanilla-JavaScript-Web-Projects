@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../vanillawebprojects-master/vanillawebprojects-master.iml" filepath="$PROJECT_DIR$/../vanillawebprojects-master/vanillawebprojects-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/web-practice.iml" filepath="$PROJECT_DIR$/.idea/web-practice.iml" />
     </modules>
   </component>

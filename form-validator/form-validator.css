@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+:root {
+    --success-color: springgreen;
+    --error-color: red;
+}
+
+body {
+    background-color: floralwhite;
+    font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,"Microsoft Yahei","Hiragino Sans GB","Heiti SC","WenQuanYi Micro Hei", sans-serif;
+}
+
+.container{
+    background: white;
+    border-radius: 4px;
+    box-shadow: 2px 2px 5px black;
+    width: 40%;
+}
+
+#title{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+.form-input{
+}
+
+.form-input label{
+    display: block;
+}
+
+.form-input input{
+    font-size: 14px;
+    border: 1px solid whitesmoke;
+    border-radius: 4px;
+}
+
+.form button {
+    background-color: deepskyblue;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    border-radius: 4px;
+}
+
+.form button:hover {
+    background-color: blue;
+}
